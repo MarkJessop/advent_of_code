@@ -1,0 +1,5 @@
+node_modules
+.vscode
+
+dec_4.js
+data/dec_4_input.txt
